@@ -1,1 +1,1 @@
-# CoinsActivity
+# Coins Activity
